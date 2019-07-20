@@ -34,10 +34,10 @@ void show_general_two() {
 }
 void show_engineer_one() {
 	printf("[1] tan [2] sin [3] cos [4] 절대값 [5] 지수값 \n");
-	printf("[6] n! [7] ln [8] log [9] PI [10] a^2\n");
-	printf("[11] a^3 [12] INT [13] Hex [14] Oct [15] Binary\n");
-	printf("[16] Dump [17] AsSin [18] AcCos [19] AcTan [20] Hypersin\n");
-	printf("[21] HyperCos [22] HyperTan\n");
+	printf("[6] n! [7] log [8] PI\n");
+	printf("[9] INT [10] Hex [11] Oct [12] Binary\n");
+	printf("[13] AsSin [14] AcCos [15] AcTan [16] Hypersin\n");
+	printf("[17] HyperCos [18] HyperTan\n");
 	printf("[0] 뒤로\n");
 }
 void show_engineer_two() {
